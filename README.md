@@ -1,4 +1,5 @@
 Author: Chayuso - Christopher Ayuso
+
 Course: Fall2018 - CS171
 
 ----------------------------------------------
@@ -40,6 +41,14 @@ Each tournament set contains a set of:
 500  5x7 worlds
 500  6x7 worlds
 500  7x7 worlds
+
+----------------------------------------------
+Course Tournament
+----------------------------------------------
+The tournament_Bonus.xlsx file contains the records of AI scores for the official course tournament. 
+Each team is either comprised of 1 or 2 team members. This AI, "Chayuso", was able to reach the 
+top 10% tier but still has room for improvement. The FinalReport.pdf gives further details on how the 
+AI agent was written.
 
 ----------------------------------------------
 Video Demo
