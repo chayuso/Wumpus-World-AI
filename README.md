@@ -40,3 +40,9 @@ Each tournament set contains a set of:
 500  5x7 worlds
 500  6x7 worlds
 500  7x7 worlds
+
+----------------------------------------------
+Video Demo
+----------------------------------------------
+![Wumpus World AI Example](https://img.youtube.com/vi/ml3kfS_eUT4/maxresdefault.jpg)
+(https://www.youtube.com/watch?v=ml3kfS_eUT4 "Wumpus World AI Example")
