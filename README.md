@@ -1,4 +1,4 @@
-Author: Chayuso
+Author: Chayuso - Christopher Ayuso
 Course: Fall2018 - CS171
 
 ----------------------------------------------
