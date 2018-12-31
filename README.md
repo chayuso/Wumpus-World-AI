@@ -44,5 +44,4 @@ Each tournament set contains a set of:
 ----------------------------------------------
 Video Demo
 ----------------------------------------------
-[![Wumpus World AI Example](https://img.youtube.com/vi/ml3kfS_eUT4/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=ml3kfS_eUT4 "Wumpus World AI Example")
+[![Wumpus World AI Example](https://img.youtube.com/vi/ml3kfS_eUT4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ml3kfS_eUT4 "Wumpus World AI Example")
