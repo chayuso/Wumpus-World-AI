@@ -26,20 +26,35 @@ set, a random world will be generated instead to test.
 Each tournament set contains a set of:
 
 2500 4x4 worlds
+
 500  5x4 worlds
+
 500  6x4 worlds
+
 500  7x4 worlds
+
 500  4x5 worlds
+
 500  5x5 worlds
+
 500  6x5 worlds
+
 500  7x5 worlds
+
 500  4x6 worlds
+
 500  5x6 worlds
+
 500  6x6 worlds
+
 500  7x6 worlds
+
 500  4x7 worlds
+
 500  5x7 worlds
+
 500  6x7 worlds
+
 500  7x7 worlds
 
 ----------------------------------------------
